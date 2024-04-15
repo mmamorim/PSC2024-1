@@ -1,10 +1,10 @@
 <img src="banner.png" width="100%">
 
 
-<table border="0">
+<table>
     <tr>
-        <td><img align="left" src="bullet.png" width="28px"></td>
-        <td>oi</td>
+        <td bgcolor="white"><img align="left" src="bullet.png" width="28px"></td>
+        <td bgcolor="blue" style="color: white; font-weight: 800">oi</td>
     </tr>
 </table>
 
