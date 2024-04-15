@@ -2,9 +2,8 @@
 
 #7971ea
 
-![](bullet.svg) ${\space \textsf{\color{#393e46}Pasta SVG}}$
-
-* [SVG.java](SVG/SVG.java)
+| <img src="bullet.svg" width="48px"> | [SVG.java](SVG/SVG.java) | Pasta SVG Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. |
+|--|:--|--|
 
 ### pasta aula04 
 
