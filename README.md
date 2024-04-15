@@ -2,7 +2,7 @@
 
 #7971ea
 
-| <img src="bullet.svg" width="48px"> | [SVG.java](SVG/SVG.java) | Pasta SVG Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. |
+| <img src="bullet.svg" width="98px"> | [SVG.java](SVG/SVG.java) | Pasta SVG Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. |
 |--|:--|--|
 
 ### pasta aula04 
