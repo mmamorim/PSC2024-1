@@ -2,7 +2,7 @@
 
 
 <h1>
-<img align="left" style="margin: 10px 6px;" src="bullet.png" width="28px">
+<img align="left" style="padding: 10px 6px;" src="bullet.png" width="28px">
 pasta SVG
 </h1>
 
