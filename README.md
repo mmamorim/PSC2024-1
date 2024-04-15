@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p>Programação de Soluções Computacionais - 2024/1</p>
+<p style="font-size: 28pt; font-weight: 800;">Programação de Soluções Computacionais - 2024/1</p>
 
 <p>prof. Marcelo Amorim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
