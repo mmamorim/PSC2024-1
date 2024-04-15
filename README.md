@@ -2,7 +2,7 @@
 
 #7971ea
 
-### ![](bullet.svg) ${\space \textsf{\color{#393e46}Pasta SVG}}$
+![](bullet.svg) ${\space \textsf{\color{#393e46}Pasta SVG}}$
 
 * [SVG.java](SVG/SVG.java)
 
