@@ -3,7 +3,7 @@
 
 <h1 style="display: flex; align-items: center;">
 <img align="left" style="margin-right: 6px;" src="bullet.png" width="28px">
-pasta SVG
+<span style="margin-bottom: 12px;">pasta SVG</span>
 </h1>
 
 * [SVG.java](SVG/SVG.java)
