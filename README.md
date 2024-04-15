@@ -1,13 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img src="banner.png" width="100%">
 
-<p style="font-size: 28pt; font-weight: 800;">Programação de Soluções Computacionais - 2024/1</p>
-
-<p>prof. Marcelo Amorim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
-
-### link deste repositório
-### [https://github.com/mmamorim/PSC2024-1](https://github.com/mmamorim/PSC2024-1)
-
-<img src="banner.svg" style="width: 100%;" alt="Click to see the source">
 
 ### pasta SVG
 
