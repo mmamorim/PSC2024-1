@@ -1,10 +1,17 @@
 <img src="banner.png" width="100%">
 
 
-<h1 style="display: flex; align-items: center;">
-<img align="left" style="margin-right: 6px;" src="bullet.png" width="28px">
-<span style="margin-bottom: 12px;">pasta SVG</span>
-</h1>
+<table border="0">
+    <tr>
+        <td><img align="left" src="bullet.png" width="28px"></td>
+        <td>oi</td>
+    </tr>
+</table>
+
+### pasta SVG
+
+| <img align="left" src="bullet.png" width="28px">    | Savings |
+| -------- | ------- |
 
 * [SVG.java](SVG/SVG.java)
 
