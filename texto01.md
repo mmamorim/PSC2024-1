@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img align="right" src="right.png" width="200px">
 
 ### Texto 01
 
