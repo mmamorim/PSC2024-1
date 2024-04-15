@@ -1,8 +1,8 @@
 <img src="banner.png" width="100%">
 
 
-<h1>
-<img align="left" style="padding: 10px 6px;" src="bullet.png" width="28px">
+<h1 style="display: flex; align-items: center;">
+<img align="left" style="margin-right: 6px;" src="bullet.png" width="28px">
 pasta SVG
 </h1>
 
