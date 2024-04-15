@@ -1,5 +1,5 @@
 
-<img align="left" src="right.png" width="110px">
+<img align="left" src="banner-page.png" width="100%">
 
 ### Texto 01
 
