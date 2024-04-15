@@ -1,8 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<h1>Programação de Soluções Computacionais - 2024/1</h1>
+<p>Programação de Soluções Computacionais - 2024/1</p>
 
-<h1>prof. Marcelo Amorim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<p>prof. Marcelo Amorim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
 # link deste repositório
 ### [https://github.com/mmamorim/PSC2024-1](https://github.com/mmamorim/PSC2024-1)
