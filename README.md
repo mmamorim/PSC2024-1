@@ -2,7 +2,7 @@
 
 #7971ea
 
-
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 > ##### <a href="aula04">Aula 01</a> - 12/03/2024
 > <img align="left" src="bullet.svg" width="48px"> 
