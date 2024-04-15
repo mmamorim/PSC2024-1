@@ -7,15 +7,7 @@
 ### link deste repositório
 ### [https://github.com/mmamorim/PSC2024-1](https://github.com/mmamorim/PSC2024-1)
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-     <div class="container">
-        <p style="font-size: 28pt; font-weight: 800;">
-            Programação de Soluções Computacionais - 2024/1
-        </p>
-     </div>
-  </foreignObject>
-</svg>
+<img src="banner.svg" style="width: 100%;" alt="Click to see the source">
 
 ### pasta SVG
 
