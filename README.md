@@ -2,7 +2,7 @@
 
 #7971ea
 
-### <img align="left" src="bullet.svg" width="32px"> ${\space \textsf{\color{#393e46}Pasta SVG}}$
+### <img align="left" src="bullet.png" width="32px"> ${\space \textsf{\color{#393e46}Pasta SVG}}$
 
 * [SVG.java](SVG/SVG.java)
 
