@@ -1,8 +1,6 @@
 <img src="banner.png" width="100%">
 
-#7971ea
-
-
+<img src="teste.svg" width="100%">
 
 <details>
 <summary>
