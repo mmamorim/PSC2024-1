@@ -1,9 +1,15 @@
+
+<img align="right" src="/assets/bullet.svg" width="68px">
+
+`prof. Marcelo Amorim`
+##### Programação de Soluções Computacionais 
+
 <table>
     <tr>
         <td>
             <img src="/assets/bullet.svg" width="48px">
         </td>
-        <td>
+        <td width="90%">
             <h3 style="padding: 0px; margin: 0px;">
             Programação de Soluções Computacionais
             </h3>
