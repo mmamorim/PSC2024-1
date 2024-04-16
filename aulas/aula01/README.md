@@ -4,9 +4,9 @@
             <img src="/assets/bullet.svg" width="48px">
         </td>
         <td>
-            <h5>
+            <h3 style="padding: 0px; margin: 0px;">
             Programação de Soluções Computacionais
-            </h5>
+            </h3>
             prof. Marcelo Amorim
         </td>
     </tr>
