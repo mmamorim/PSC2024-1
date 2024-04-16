@@ -1,37 +1,5 @@
 <img src="banner.png" width="100%">
 
-<details>
-<summary>
-Tips for collapsed sections
-</summary>
-
-> ##### <a href="aula04">Aula 01</a> - 12/03/2024
-> <img align="left" src="bullet.svg" width="48px"> 
-> Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. 
-
-</details>
-
-<details>
-<summary>
-Tips for collapsed sections
-</summary>
-
-> ##### <a href="aula04">Aula 01</a> - 12/03/2024
-> <img align="left" src="bullet.svg" width="48px"> 
-> Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. 
-
-</details>
-
-<details>
-<summary>
-Tips for collapsed sections
-</summary>
-
-> ##### <a href="aula04">Aula 01</a> - 12/03/2024
-> <img align="left" src="bullet.svg" width="48px"> 
-> Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. 
-
-</details>
 
 
 > ##### Aula 01 - 12/03/2024
