@@ -9,3 +9,20 @@ Orientação à objetos é um paradigma de programação, isto é, uma forma ou 
 Este material está inserido em um contexto no qual os alunos estão aprendendo algoritmos e programação por meio da Unidade Curricular denominada **Programação de soluções computacionais** que introduz os aspectos fundamentais de implementação de programas  sendo utilizado a linguagem Java como ferramenta de implementação dos conceitos de Orientação a Objetos.
 
 Assim, se faz necessário apresentar alguns detalhes e pricípios básicos da linguagem antes de aprender o novo paradigma. 
+
+Este texto apresenta um breve resumo da sintaxe, tipos de dados, operadores, comandos básicos, estruturas linguísticas, convenções de código e características tecnológicas oferecidas pela Linguagem de programação Java. 
+
+### Conceito de Máquina Virtual Java
+
+<p align="justify">
+Algumas linguagens de programação, como por exemplo, C e Rust, compilam seus programas fontes para uma plataforma e um sistema operacional específico. O código binário gerado pela compilação é então executado pelo sistema operacional nativo para qual ele foi compilado. Isto é, este código executável poderá ser apenas executado neste sistema operacional. Para que o mesmo programa funcione em outro sistema operacional é necessário compilar o código fonte novamente utilizando um compilador adequado para este novo sistema
+em questão.
+</p>
+
+O Java adota um conceito de máquina virtual que adiciona uma camada
+extra entre o sistema operacional e a aplicação. Esta camada é responsável
+por executar o código Java compilado, interpretando os comandos em chamadas do
+sistema operacional no qual está rodando no momento. A Máquina Virtual Java
+ou \realce{Java Virtual Machine (JVM)} é responsável pela interpretação dos
+\realce{bytecodes} \footnote{Bytecode é o termo dado ao código binário gerado
+pelo compilador Java.}.
