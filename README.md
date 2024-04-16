@@ -1,5 +1,7 @@
 <img src="banner.png" width="100%">
 
+## 📑 Histórico de aulas
+
 <table>
     <tr>
         <td>
