@@ -1,6 +1,18 @@
 <img src="banner.png" width="100%">
 
-
+<table>
+    <tr>
+        <td>
+            <img src="bullet.svg" width="98px">
+        </td>
+        <td>
+            <a href="aula01">aula01</a>
+        </td>
+        <td>
+            Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.
+        </td>
+    </tr>
+</table>
 
 > ##### Aula 01 - 12/03/2024
 > <img align="left" src="bullet.svg" width="48px"> 
@@ -13,7 +25,7 @@
 > <a href="aula04/Digitos.java">Digitos.java</a>
 
 | <img src="bullet.svg" width="98px"> | [SVG.java](SVG/SVG.java) | Pasta SVG Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor. |
-|:--|:--|:--|
+| :---------------------------------- | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 
