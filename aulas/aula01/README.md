@@ -7,8 +7,6 @@
             <h5>
             Programação de Soluções Computacionais
             </h5>
-        </td>
-        <td>
             prof. Marcelo Amorim
         </td>
     </tr>
